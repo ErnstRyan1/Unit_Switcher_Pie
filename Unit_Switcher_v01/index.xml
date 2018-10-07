@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="1001">
+	<kit name="" restart="YES">
+		<source target="Unit_Switcher/index.cfg">index.cfg</source>
+
+		<source target="Unit_Switcher/Configs/unit_switcher_pie_menu.cfg">Configs/unit_switcher_pie_menu.cfg</source>	
+		<source target="Unit_Switcher/Scripts/set_units_CM.LXM">Scripts/set_units_CM.LXM</source>
+		<source target="Unit_Switcher/Scripts/set_units_feet.LXM">Scripts/set_units_feet.LXM</source>
+		<source target="Unit_Switcher/Scripts/set_units_inches.LXM">Scripts/set_units_inches.LXM</source>
+		<source target="set_units_meters.LXM">Scripts/set_units_meters.LXM</source>
+		<source target="set_units_mm.LXM">Scripts/set_units_mm.LXM</source>
+		
+	</kit>
+	<message button="Help">Unit_Switcher Kit installation complete.</message>
+</package>
